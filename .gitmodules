@@ -1,0 +1,3 @@
+[submodule "JSMathPool"]
+	path = JSMathPool
+	url = https://github.com/latot/JSMathPool
